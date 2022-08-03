@@ -1,2 +1,2 @@
 #this is zomota landing page
- This is setup branch
+ This is hero section 
